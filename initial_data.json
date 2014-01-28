@@ -1,0 +1,64 @@
+[
+	{
+		"model": "selebrate.user",
+		"pk" : 1,
+		"fields": {
+			"name": "prashant",
+			"city": "mumbai"
+		}
+	},
+	{
+		"model": "selebrate.user",
+		"pk" : 2,
+		"fields": {
+			"name": "shruti",
+			"city": "paris"
+		}
+	},
+	{
+		"model": "selebrate.vendor",
+		"pk" : 3,
+		"fields": {
+			"name": "alok",
+			"address": "shri krishna apts",
+			"city": "paris"
+		}
+	},
+	{
+		"model": "selebrate.vendor",
+		"pk" : 4,
+		"fields": {
+			"name": "reddy",
+			"address": "hiranandani gardens",
+			"city": "mumbai"
+		}
+	},
+	{
+		"model": "selebrate.servicetype",
+		"pk": 5,
+		"fields": {
+			"name": "catering"
+		}
+	},
+	{
+		"model": "selebrate.servicetype",
+		"pk": 6,
+		"fields": {
+			"name": "flowers"
+		}
+	},
+	{
+		"model": "selebrate.eventtype",
+		"pk": 7,
+		"fields": {
+			"name": "wedding"
+		}
+	},
+	{
+		"model": "selebrate.eventtype",
+		"pk": 8,
+		"fields": {
+			"name": "birthday"
+		}
+	}
+]
